@@ -16,4 +16,6 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=omjogani&show_icons=true&theme=dracula" alt="omjogani_stats"><p>
 
 <h2>Let's work together on your next Project...</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omjogani&label=Profile%20views&color=0e75b6&style=flat" alt="omjogani" /> </p>
+
 <h2>Thanks!!</h2>
