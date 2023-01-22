@@ -14,9 +14,7 @@ I'm a Computer Engineer & Programmer by Profession. I write code that makes some
 ---
 
 <a href="https://www.github.com/omjogani" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/omjogani?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/om_jogani" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/om_jogani?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+src="https://img.shields.io/github/followers/omjogani?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/om_jogani" target="_blank" rel="noreferrer"></a>
 
 ---
 ### Skills
