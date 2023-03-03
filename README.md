@@ -8,7 +8,7 @@
 ---
 ### About me
 
-I'm a Computer Engineer & Programmer by Profession. I write code that makes somebody's life easier. I used to contribute to open-source projects & write code for production as well. In the past couple of years, I got excellence in various fields like Mobile App Development(Futter), Web Development(MERN), etc...
+I'm a Computer Engineer & Programmer by Profession. I write code that makes somebody's life easier. I used to contribute to open-source projects & write code for production as well. In the past couple of years, I got excellence in various fields like Mobile App Development(Flutter), Web Development(MERN), etc...
 
 
 ---
