@@ -14,12 +14,75 @@ I'm a Computer Engineer & Programmer by Profession. I write code that makes some
 ---
 
 <a href="https://www.github.com/omjogani" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/omjogani?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/om_jogani" target="_blank" rel="noreferrer"></a>
+src="https://img.shields.io/github/followers/omjogani?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 
 ---
-### Skills
+### Tools & Technologies
+#### Programming & MarkUp Languages
+<p float="left">
+  <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=dart&logoColor=ffffff&message=Dart&style=flat-square" />
 
+  <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=go&logoColor=ffffff&message=Go&style=flat-square" />
+  
+  <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=javascript&logoColor=ffffff&message=JavaScript&style=flat-square" />
+  
+  <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=typescript&logoColor=ffffff&message=TypeScript&style=flat-square" />
 
+  <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=python&logoColor=ffffff&message=Python&style=flat-square" />
+
+  <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=c&logoColor=ffffff&message=C&style=flat-square" />
+  
+  <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=c%2B%2B&logoColor=ffffff&message=C%2B%2B&style=flat-square" />
+  
+  <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=html5&logoColor=ffffff&message=HTML&style=flat-square" />
+  
+  <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=css3&logoColor=ffffff&message=CSS&style=flat-square" />
+</p>
+
+#### Libraries & Frameworks
+
+<p align="left">
+  <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=flutter&logoColor=ffffff&message=Flutter&style=flat-square" />
+  
+  <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=react&logoColor=ffffff&message=ReactJS&style=flat-square" />
+  
+  <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=node.js&logoColor=ffffff&message=NodeJS&style=flat-square" />
+  
+  <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=express&logoColor=ffffff&message=ExpressJS&style=flat-square" />
+  
+  <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=tailwindcss&logoColor=ffffff&message=TailwindCSS&style=flat-square" />
+  
+  <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=django&logoColor=ffffff&message=Django&style=flat-square" />
+</p>
+
+#### Databases
+
+<p align="left">
+  <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=firebase&logoColor=ffffff&message=Firebase&style=flat-square" />
+    
+  <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=mongodb&logoColor=ffffff&message=MongoDB&style=flat-square" />
+  
+  <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=appwrite&logoColor=ffffff&message=Appwrite&style=flat-square" />
+  
+  <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=supabase&logoColor=ffffff&message=Supabase&style=flat-square" />
+  
+  <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=postgresql&logoColor=ffffff&message=PostgreSQL&style=flat-square" />
+  
+  <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=mysql&logoColor=ffffff&message=MySQL&style=flat-square" />
+</p>
+
+#### Tools
+
+<p align="left">
+  <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=git&logoColor=ffffff&message=Git&style=flat-square" />
+  
+  <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=github&logoColor=ffffff&message=GitHub&style=flat-square" />
+    
+  <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=docker&logoColor=ffffff&message=Docker&style=flat-square" />
+</p>
+
+<!--
 <p align="left">
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
@@ -41,6 +104,8 @@ src="https://img.shields.io/github/followers/omjogani?logo=github&style=for-the-
 <a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored.svg" width="36" height="36" alt="Appwrite" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
+
+-->
 
 ---
 ### Socials
