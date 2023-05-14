@@ -1,14 +1,7 @@
 
 <h1 align="center">Hello 👋, I'm Om Jogani</h1>
 
-* 🌍  I'm based in Gujarat, India
-* 🖥️  See my portfolio at [Om Jogani](http://iamomjogani.web.app)
-* ✉️  You can contact me at [om080jogani@gmail.com](mailto:om080jogani@gmail.com)
-* 🤝  I'm open to collaborating on Real World Projects
----
-### About me
-
-I'm a Computer Engineer & Programmer by Profession. I write code that makes somebody's life easier. I used to contribute to open-source projects & write code for production as well. In the past couple of years, I got excellence in various fields like Mobile App Development(Flutter), Web Development(MERN), etc...
+I'm a Computer Engineer & Programmer by Profession. I write code that makes somebody's life easier. I contribute to open-source projects & write code for production as well. In the past couple of years, I got excellence in various fields like Mobile App Development(Flutter), Web Development(MERN), etc...
 
 
 ---
