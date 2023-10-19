@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello 👋, I'm Om Jogani</h1>
 
-I'm a Computer Engineer & Programmer by Profession. I write code that makes somebody's life easier. I contribute to open-source projects & write code for production as well. In the past couple of years, I got excellence in various fields like Mobile App Development(Flutter), Web Development(MERN), etc...
+<p align="center">Exploring & Crafting the Software Products that Help the Community with the Field of Software Engineering!</p>
 
 
 ---
@@ -12,7 +12,7 @@ src="https://img.shields.io/github/followers/omjogani?logo=github&style=for-the-
 
 ---
 ### Tools & Technologies
-#### Programming & MarkUp Languages
+#### Programming Languages
 <p float="left">
   <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=dart&logoColor=ffffff&message=Dart&style=flat-square" />
 
@@ -26,11 +26,7 @@ src="https://img.shields.io/github/followers/omjogani?logo=github&style=for-the-
 
   <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=c&logoColor=ffffff&message=C&style=flat-square" />
   
-  <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=c%2B%2B&logoColor=ffffff&message=C%2B%2B&style=flat-square" />
-  
-  <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=html5&logoColor=ffffff&message=HTML&style=flat-square" />
-  
-  <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=css3&logoColor=ffffff&message=CSS&style=flat-square" />
+  <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=c%2B%2B&logoColor=ffffff&message=C%2B%2B&style=flat-square" />  
 </p>
 
 #### Libraries & Frameworks
