@@ -11,7 +11,11 @@ src="https://img.shields.io/github/followers/omjogani?logo=github&style=for-the-
 
 
 ---
-### Tools & Technologies
+
+<details>
+<summary> <b> Tools & Technologies </b> </summary>
+
+
 #### Programming Languages
 <p float="left">
   <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=dart&logoColor=ffffff&message=Dart&style=flat-square" />
@@ -70,6 +74,7 @@ src="https://img.shields.io/github/followers/omjogani?logo=github&style=for-the-
     
   <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=docker&logoColor=ffffff&message=Docker&style=flat-square" />
 </p>
+</details>
 
 <!--
 <p align="left">
@@ -97,18 +102,17 @@ src="https://img.shields.io/github/followers/omjogani?logo=github&style=for-the-
 -->
 
 ---
-### Socials
+### Socials (Let's connect)
 
 <p align="left"> </a> <a href="https://omjogani.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/omjogani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/omjogani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/omjoganii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ---
-### My GitHub Stats
+### GitHub Profile Stats
 
 <a href="http://www.github.com/omjogani"><img src="https://github-readme-stats.vercel.app/api?username=omjogani&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="omjogani's GitHub stats" /></a>
 
 ---
 
-### Let's work together on your next Project...
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omjogani&label=Profile%20views&color=0e75b6&style=flat" alt="omjogani" /> </p>
 
-## Thank You!!
+Let's Craft together with Software Engineering!
