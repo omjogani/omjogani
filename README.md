@@ -21,6 +21,8 @@ src="https://img.shields.io/github/followers/omjogani?logo=github&style=for-the-
   <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=dart&logoColor=ffffff&message=Dart&style=flat-square" />
 
   <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=go&logoColor=ffffff&message=Go&style=flat-square" />
+
+  <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=ruby&logoColor=ffffff&message=Ruby&style=flat-square" />
   
   <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=javascript&logoColor=ffffff&message=JavaScript&style=flat-square" />
   
@@ -37,6 +39,8 @@ src="https://img.shields.io/github/followers/omjogani?logo=github&style=for-the-
 
 <p align="left">
   <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=flutter&logoColor=ffffff&message=Flutter&style=flat-square" />
+
+  <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=rubyonrails&logoColor=ffffff&message=Ruby On Rails&style=flat-square" />
   
   <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=react&logoColor=ffffff&message=ReactJS&style=flat-square" />
   
