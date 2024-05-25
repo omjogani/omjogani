@@ -1,17 +1,10 @@
 
 <h1 align="center">Hello 👋, I'm Om Jogani</h1>
 
-<p align="center">Exploring & Crafting the Software Products that Help the Community with the Field of Software Engineering!</p>
-
-
----
-
-<a href="https://www.github.com/omjogani" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/omjogani?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
+<p align="center">Exploring the World of Software Engineering | Crafting Quality Software Products!</p>
 
 ---
-
+<!--
 <details>
 <summary> <b> Tools & Technologies </b> </summary>
 
@@ -43,6 +36,8 @@ src="https://img.shields.io/github/followers/omjogani?logo=github&style=for-the-
   <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=rubyonrails&logoColor=ffffff&message=Ruby On Rails&style=flat-square" />
   
   <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=react&logoColor=ffffff&message=ReactJS&style=flat-square" />
+
+  <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=nextjs&logoColor=ffffff&message=NextJS&style=flat-square" />
   
   <img src="https://img.shields.io/static/v1?color=0891b3&label=%20&labelColor=262626&logo=node.js&logoColor=ffffff&message=NodeJS&style=flat-square" />
   
@@ -105,18 +100,27 @@ src="https://img.shields.io/github/followers/omjogani?logo=github&style=for-the-
 
 -->
 
----
-### Socials (Let's connect)
+### Socials 🌐 (Let's connect)
 
-<p align="left"> </a> <a href="https://omjogani.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/omjogani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/omjogani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/omjoganii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+| [Blogs](https://omjogani.github.io/blogs/) | [X (Twitter)](https://www.twitter.com/omjoganii) | [LinkedIn](https://www.linkedin.com/in/omjogani) | [Instagram](http://www.instagram.com/omjogani) |
+|-------|-------------|----------|-----------|
+
 
 ---
-### GitHub Profile Stats
+### GitHub Profile Stats 📊
 
 <a href="http://www.github.com/omjogani"><img src="https://github-readme-stats.vercel.app/api?username=omjogani&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="omjogani's GitHub stats" /></a>
 
----
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omjogani&label=Profile%20views&color=0e75b6&style=flat" alt="omjogani" /> </p>
-
-Let's Craft together with Software Engineering!
+<table>
+  <tr>
+    <td>
+      <a href="https://www.github.com/omjogani" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/github/followers/omjogani?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+      </a>
+    </td>
+    <td>
+      <img src="https://komarev.com/ghpvc/?username=omjogani&label=Profile%20views&color=0e75b6&style=flat" alt="omjogani" />
+    </td>
+  </tr>
+</table>
