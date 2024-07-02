@@ -102,8 +102,8 @@
 
 ### Socials 🌐 (Let's connect)
 
-| [Blogs](https://omjogani.github.io/blogs/) | [X (Twitter)](https://www.twitter.com/omjoganii) | [LinkedIn](https://www.linkedin.com/in/omjogani) | [Instagram](http://www.instagram.com/omjogani) |
-|-------|-------------|----------|-----------|
+| [Blogs](https://omjogani.github.io/blogs/) | [X (Twitter)](https://www.twitter.com/omjoganii) | [LinkedIn](https://www.linkedin.com/in/omjogani) | [Instagram](http://www.instagram.com/omjogani) | [Peerlist](https://peerlist.io/omjogani) |
+|-------|-------------|----------|----------|-----------|
 
 
 ---
